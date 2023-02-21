@@ -1,4 +1,4 @@
-# Naive-Bayes-classifier--Iris-dataset
+# Naive Bayes classifier on Iris dataset
 Naive Bayes classifier from scratch on Iris dataset
 
 ## EDA
